@@ -16,10 +16,7 @@
     "html",
     "html-all"
   ],
-  "author": {
-    "name": "shenqihui",
-    "email": "shenqihui0920@gmail.com"
-  },
+  "author": "shenqihui <shenqihui0920@gmail.com>",
   "dependencies": {
     "xmlbuilder": "2.4.4"
   },
@@ -27,7 +24,10 @@
     "karma": ">=0.10"
   },
   "license": "MIT",
-  "devDependencies": {
+  "devDependencies": {},
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/shenqihui/karma-html-all-reporter/issues"
   },
-  "contributors": []
+  "homepage": "https://github.com/shenqihui/karma-html-all-reporter"
 }
