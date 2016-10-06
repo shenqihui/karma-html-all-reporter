@@ -32,7 +32,7 @@ npm install karma-html-all-reporter --save-dev
 // karma.conf.js
 module.exports = function(config) {
   config.set({
-    reporters: ['progress', 'html'],
+    reporters: ['progress', 'html-all'],
 
     htmlAllReporter: {
       outputFile: '' + testOutPath + 'html-all.html',
